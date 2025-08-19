@@ -1,2 +1,2 @@
-# Java-Examples
-Basic test programs for rust
+# Java Examples
+Basic test programs for Java ran using VScode
